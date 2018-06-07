@@ -1,0 +1,4 @@
+github "Alamofire/Alamofire" "4.5.0"
+github "jdg/MBProgressHUD" "1.0.0"
+github "rs/SDWebImage" "4.0.0"
+github "eggswift/pull-to-refresh" "2.6"
